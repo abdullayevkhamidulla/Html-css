@@ -16,6 +16,10 @@ nav {
   background-color: #34495e;
   padding: 10px;
 }
+nav a {
+  color: #ffffff;
+  text-decoration: underline;
+}
 
 
 main {
